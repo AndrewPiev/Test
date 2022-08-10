@@ -53,3 +53,4 @@
 
 Пример:
 [Markdown Guide](https://www.markdownguide.org)
+clear

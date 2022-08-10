@@ -1,4 +1,4 @@
-# Синтаксис языка Markdwwwwwwwffffff
+# Синтаксис языка Markdown
 
 # Заголовки
 
